@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\programas\5 Polimorfismo\Plimorfismo\Plimorfismo.ConseptoBasico\bin\Debug\net8.0\Plimorfismo.ConseptoBasico.exe
+C:\Users\Acer\Desktop\programas\5 Polimorfismo\Plimorfismo\Plimorfismo.ConseptoBasico\bin\Debug\net8.0\Plimorfismo.ConseptoBasico.deps.json
+C:\Users\Acer\Desktop\programas\5 Polimorfismo\Plimorfismo\Plimorfismo.ConseptoBasico\bin\Debug\net8.0\Plimorfismo.ConseptoBasico.runtimeconfig.json
+C:\Users\Acer\Desktop\programas\5 Polimorfismo\Plimorfismo\Plimorfismo.ConseptoBasico\bin\Debug\net8.0\Plimorfismo.ConseptoBasico.dll
+C:\Users\Acer\Desktop\programas\5 Polimorfismo\Plimorfismo\Plimorfismo.ConseptoBasico\bin\Debug\net8.0\Plimorfismo.ConseptoBasico.pdb
+C:\Users\Acer\Desktop\programas\5 Polimorfismo\Plimorfismo\Plimorfismo.ConseptoBasico\obj\Debug\net8.0\Plimorfismo.ConseptoBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\programas\5 Polimorfismo\Plimorfismo\Plimorfismo.ConseptoBasico\obj\Debug\net8.0\Plimorfismo.ConseptoBasico.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\programas\5 Polimorfismo\Plimorfismo\Plimorfismo.ConseptoBasico\obj\Debug\net8.0\Plimorfismo.ConseptoBasico.AssemblyInfo.cs
+C:\Users\Acer\Desktop\programas\5 Polimorfismo\Plimorfismo\Plimorfismo.ConseptoBasico\obj\Debug\net8.0\Plimorfismo.ConseptoBasico.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\programas\5 Polimorfismo\Plimorfismo\Plimorfismo.ConseptoBasico\obj\Debug\net8.0\Plimorfismo.ConseptoBasico.dll
+C:\Users\Acer\Desktop\programas\5 Polimorfismo\Plimorfismo\Plimorfismo.ConseptoBasico\obj\Debug\net8.0\refint\Plimorfismo.ConseptoBasico.dll
+C:\Users\Acer\Desktop\programas\5 Polimorfismo\Plimorfismo\Plimorfismo.ConseptoBasico\obj\Debug\net8.0\Plimorfismo.ConseptoBasico.pdb
+C:\Users\Acer\Desktop\programas\5 Polimorfismo\Plimorfismo\Plimorfismo.ConseptoBasico\obj\Debug\net8.0\Plimorfismo.ConseptoBasico.genruntimeconfig.cache
+C:\Users\Acer\Desktop\programas\5 Polimorfismo\Plimorfismo\Plimorfismo.ConseptoBasico\obj\Debug\net8.0\ref\Plimorfismo.ConseptoBasico.dll

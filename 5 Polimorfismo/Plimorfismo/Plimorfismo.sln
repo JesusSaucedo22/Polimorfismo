@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plimorfismo.ConseptoBasico", "Plimorfismo.ConseptoBasico\Plimorfismo.ConseptoBasico.csproj", "{654B740D-F4EE-42FB-93E0-659F208D4D50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo.PolimorfismoDeInclucion", "Polimorfismo.PolimorfismoDeInclucion\Polimorfismo.PolimorfismoDeInclucion.csproj", "{C0D99CD8-F0BE-4812-9B91-EFA8B5CAE25D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{654B740D-F4EE-42FB-93E0-659F208D4D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654B740D-F4EE-42FB-93E0-659F208D4D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654B740D-F4EE-42FB-93E0-659F208D4D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654B740D-F4EE-42FB-93E0-659F208D4D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D99CD8-F0BE-4812-9B91-EFA8B5CAE25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D99CD8-F0BE-4812-9B91-EFA8B5CAE25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D99CD8-F0BE-4812-9B91-EFA8B5CAE25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D99CD8-F0BE-4812-9B91-EFA8B5CAE25D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FD6FF3D-9038-4A4F-8D9C-D9BCB95D6D6A}
+	EndGlobalSection
+EndGlobal
